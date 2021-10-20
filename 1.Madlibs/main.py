@@ -1,3 +1,5 @@
+# This program shows how to concatinate strings efficiently
+
 adj = input("Adjective: ")
 verb1 = input("Verb: ")
 verb2 = input("Verb: ")
